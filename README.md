@@ -1,6 +1,6 @@
 
-## Welcome! Right here, you'll be able to explore some of my projects.
-## Among all projects I have worked on, I used R as my primary and only language.
+### Welcome! Right here, you'll be able to explore some of my projects.
+### Among all projects I have worked on, I used R as my primary and only language.
 
 
 ![](http://www.e-learn.nl/media/blogs/e-learn/banners/wordle-learninganalytics.png?mtime=1514126619)
