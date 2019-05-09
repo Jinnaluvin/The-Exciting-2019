@@ -1,9 +1,3 @@
----
-title: "Welcome to my Github!"
-output: html_document
----
-\usepackage[utf8]{inputenc}
-
 
 #### Welcome! Right here, you'll be able to explore some of my projects.
 #### Among all projects I have worked on, I used R as my primary and only language.
